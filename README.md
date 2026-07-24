@@ -1,0 +1,2 @@
+<img width="1800" height="1169" alt="Screenshot 2026-07-25 at 01 56 26" src="https://github.com/user-attachments/assets/88dca818-9062-42bb-886f-1edd7ff670bd" />
+This was a project i did late at night because i didnt sleep and started to design pcb's turned out it was really fun than i finished it all up there if the case left but ill manage it the moment i get my hands on a 3d printer so until than its pretyy much a pcb project
